@@ -1,3 +1,5 @@
+<a href="https://github.com/mariangXzyy/mgX" align=center><img src="https://github.com/mariangXzyy/mgX/blob/8555b33379770a7495442a4c8551101cbea55a2e/logo.png"></a>
+[![](https://visitcount.itsvg.in/api?id=mariangXzyy&icon=8&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@mgXzyy) 
@@ -8,8 +10,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=mariangXzyy&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mariangXzyy&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariangXzyy&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=mariangXzyy&icon=8&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
